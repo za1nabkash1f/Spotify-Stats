@@ -56,10 +56,17 @@ StreamingHistory_podcast_0.json
 
 🛑 Important: Do NOT upload your actual data to GitHub. Add these files to .gitignore to keep them private.
 
-### 5. Run the App
+### 5. Make theme changes
 
-streamlit run PythonApplication1.py
+Create a new folder .streamlit in you root file
 
+Save config.toml file in .streamlit file
+
+You should now get a new theme 
+### 6. Run the App
+<pre>
+streamlit run filename.py
+</pre>
 🛡️ Privacy Note
 This project uses your personal Spotify streaming data locally only. Ensure you do not commit any personal data files when sharing this project publicly.
 
