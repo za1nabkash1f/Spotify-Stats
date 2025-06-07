@@ -1,0 +1,25 @@
+# Ignore Visual Studio settings
+.vs/
+
+# Ignore the virtual environment
+venv/
+
+# Ignore VS Code project settings and .sln file
+.vscode/
+*.sln
+
+# Ignore JSON data files (since they're private)
+StreamingHistory_music_0.json
+StreamingHistory_music_1.json
+StreamingHistory_podcast_0.json
+
+# Ignore system files
+__pycache__/
+*.pyc
+
+*.json
+.streamlit/config.toml
+
+# Ignore Visual Studio settings
+.vs/
+
